@@ -13,4 +13,4 @@ A simple GUI tool to apply region-based and freehand blurring, redaction, croppi
 ## Setup
 ```bash
 pip install -r requirements.txt
-python main.py
+python main_app.py
